@@ -1,0 +1,10 @@
+1,GB,,Warenford,Ivy Lane,28,1,NE70 0QY,1
+2,GB,,Broome,Park End St,62,3,NR35 2HH,2
+3,NG,Abuja,Central,Mazsalah Shopping Complex suite,41,30,110001,3
+4,MX,Veracruz,Cordoba,Cordoba Centro,1,0,94500,4
+5,PL,,Warszawa,ul. Bobrowiecka,87,5,00-728,5
+6,GB,,Wareford,Ivy lane,28,1,NE70 0QY,6
+7,GB,,Broome,Park End St,62,3,NR35 2HH,7
+8,CA,Alberta,Calgary,Heritage drive,3165,20,T2V 2W2,8
+9,SY,Tel White,Ar-raqqa,Raka St,12,1,22727,9
+10,US,Pennsylvania,Pittsburgh,Jacobs Street,4932,0,15206,10

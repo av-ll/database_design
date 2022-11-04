@@ -1,0 +1,10 @@
+1,Cannot change my booking,2,13
+2,My credit card is not working,2,11
+3,I booked the wrong date and don't know how to change them,5,15
+4,How can I find my booking,7,12
+5,The host is not responding,6,8
+6,I need to cancel my booking perhaps,10,16
+7,I need help with my booking,9,8
+8,How can I change my booking?,7,16
+9,If I am late for check-in how can I contact the host,10,1
+10,Payment not going through,2,13

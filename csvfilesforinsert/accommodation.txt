@@ -1,0 +1,10 @@
+1,apartment,72.5,4,3,'located in the city centre calm ideal for a small family vacation!',21:00,10:00,,1
+2,apartment,52,4,3,'Relaxed and away from the bustling and the noise supermarket nearby',22:00,11:00,,3
+3,apartment,100,5,3,'big apartment ideal for families with a lot of kids!',22:00,10:00,,6
+4,house,135,7,5,'Big house in a picturesque are of the city',20:00,11:00,,7
+5,apartment,98.5,3,2,'Small apartment but very convenient for tourists',23:00,10:00,,8
+6,room,36,2,2,'Room in a calm apartment which can also be fully rented',21:00,10:00,1,1
+7,room,22,2,2,'Room that is part of a bigger apartment in a relaxed area',22:00,11:00,2,3
+8,apartment,80,3,2,'Small cousy modern apartment',00:00,11:00,,9
+9,apartment,40,3,3,'Perfect if you want to get to know the city and not walk much subway nearby',22:00,12:00,,11
+10,house,120,6,3,'Colonial style home perfect for summer vacations near the beach',22:00,13:00,,17

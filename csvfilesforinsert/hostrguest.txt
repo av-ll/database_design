@@ -1,0 +1,19 @@
+1,5,Very friendly,1,2
+2,1,Loud and obnoxious guests,3,4
+3,3,Okay,6,5
+4,5,Such nice people,7,12
+5,3,Nice,8,15
+6,5,So happy to receive them,9,18
+7,5,No worries,11,13
+8,1,bad guest,17,14
+9,3,Good person,1,15
+10,3,Very satisfied,3,16
+11,5,So Satisfied,6,18
+12,5,Not too bad folks!,7,19
+13,4,Despite some issues ok!,8,20
+14,1,Parties and loud do not recommend,9,5
+15,2,2 stars!!! could be better,11,4
+16,4,GOOD,17,2
+17,1,Very dirty,1,2
+18,3,Broke a window but was nice still,6,23
+19,1,My house will never be the same,7,24
