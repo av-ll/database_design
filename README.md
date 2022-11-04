@@ -6,7 +6,7 @@ University project mysql project with Max 20 table constraint
 
 Instructions
 
-After extracting the zip file, inside the folder entitled Final_Product you will find 4 files. In order to "install" the database on your computer you will have 2 options.
+In order to "install" the database on your computer you will have 2 options.
 The first one is to simply open a terminal or command line and opening mysql.
 Create a database named Airbnb or something else using the command "CREATE DATABASE mysql; for example.
 After this you can use the dump file airbnb.sql.
