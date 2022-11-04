@@ -2,6 +2,7 @@
 
 University project mysql project with Max 20 table constraint
 
+There is a PDF with the database design as well as the code used to generate and populate the database in 2 separate text files.
 
 
 Instructions
