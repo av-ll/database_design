@@ -1,0 +1,41 @@
+LOAD DATA LOCAL INFILE “csvfilesforinsert/user.txt" INTO TABLE user FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/payment.txt" INTO TABLE payment_info FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/banking.txt" INTO TABLE bank_account  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/card.txt" INTO TABLE credit_card  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/guestrhost.txt" INTO TABLE guest_rating_host FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/hostrguest.txt" INTO TABLE host_rating_guest FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/languages.txt" INTO TABLE languages  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/contact.txt" INTO TABLE contact  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/login.txt" INTO TABLE login  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/voucher.txt" INTO TABLE voucher  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/vouchersol.txt" INTO TABLE voucher_solution  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/accommodation.txt" INTO TABLE accommodation FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/photos.txt" INTO TABLE photos  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/allowed.txt" INTO TABLE allowed  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/address.txt" INTO TABLE address FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/amenities.txt" INTO TABLE amenities FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/booking.txt" INTO TABLE booking  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/agent.txt" INTO TABLE agent  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/help.txt" INTO TABLE booking_help  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/calendar.txt" INTO TABLE calendar  FIELDS TERMINATED BY "," LINES terminated by "\n";
+
+LOAD DATA LOCAL INFILE “csvfilesforinsert/dates_help.txt" INTO TABLE date_help FIELDS TERMINATED BY "," LINES terminated by "\n";
